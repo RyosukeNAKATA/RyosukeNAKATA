@@ -29,3 +29,8 @@ Here are some ideas to get you started:
     <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
     <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
 </p>
+
+<h3 align="bottom">Connect with me:</h3>
+<p align="bottom">
+<a href="https://linkedin.com/in/亮佑-中田-5b5b581b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="亮佑-中田-5b5b581b3" height="30" width="40" /></a>
+</p>
