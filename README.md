@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RyosukeNAKATA/RyosukeNAKATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyosukeNAKATA&count_private=true&show_icons=true&include_all_commits=true&title_color=FFFFFF&text_color=999999&icon_color=3789DB&bg_color=262626"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyosukeNAKATA&title_color=FFFFFF&text_color=999999&icon_color=3789DB&bg_color=262626" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RyosukeNAKATA&repo=hecto&theme=bear">
+</a>
